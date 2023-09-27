@@ -1,0 +1,13 @@
+{
+    "phpsab.allowedAutoRulesets": [
+
+        ".phpcs.xml",
+        ".phpcs.xml.dist",
+        "phpcs.xml",
+        "phpcs.xml.dist",
+        "phpcs.ruleset.xml",
+        "ruleset.xml"
+    ],
+    "phpsab.executablePathCBF": "/Users/tungt/AppData/Roaming/.Composer/vendor/bin/phpcbf",
+    "phpsab.executablePathCS": "/Users/tungt/AppData/Roaming/.Composer/vendor/bin/phpcs"
+}
